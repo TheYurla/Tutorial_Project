@@ -67,3 +67,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Project Members
 - Student ID: 6349052
 - Student ID: 6358408
+
+## IMPORTANT
+To find the tasks you need to go to the branch that is named as uml_models, everything is submitted there
